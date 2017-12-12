@@ -10,6 +10,7 @@ public class Album {
     private Long id;
     private String albumName;
 
+
     public Album(){}
 
     public Album(String albumName) {
