@@ -1,0 +1,1 @@
+INSERT into album(id, album_name) VALUES (1, 'aa')
